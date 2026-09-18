@@ -17,6 +17,7 @@ let age = 22;
 let isTrue = true;
 
 
-console.log(name);
-console.log(age);
-console.log(isTrue);
+console.log(name,typeof name);
+console.log(age,typeof age);
+console.log(isTrue,typeof isTrue);
+
